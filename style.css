@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    max-width: 720px;
+    height: 100vh;
+}
+
+main{
+    height: 100vh;
+    position: relative;
+}
+
+#photo-token{
+    width: 300px;
+    height: 300px;
+}
+
+.Token-Stalin-Button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.Score-coin{
+    color: white;
+    text-align: center;
+    font-size: 48px;
+    line-height: 42px;
+    padding-top: 40px;
+}
+
+.Boost-button{
+    color: white;
+    text-align: center;
+    position: absolute;
+    bottom: 211px;
+    right: 20px;
+    font-size: 36px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.Boost-button img{
+    width: 36px;
+    height: 36px;
+}
+
+.image-coin img{
+    width: 50px;
+    height: 50px;
+}
+
+.coming-soon{
+    color: white;
+    font-size: 36px;
+    background-color: #424242;
+    width: 250px;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative
+}
+
+.com{
+    display: flex;
+    justify-content: center;
+    margin-top: 190px;
+}
+
+#image-coins{
+    width: 14px;
+    height: 14px;
+}
+
+.tap{
+    color: white;
+    font-size: 14px;
+    width: max-content;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.image-coin2{
+    color: white;
+    display: flex;
+    width: max-content;
+    align-items: center;
+    margin: 0 auto;
+    gap: 10px;
+    font-size: 14px;
+}
+
+.tap-coin{
+    background-color: #424242;
+    width: max-content;
+    margin: 0 auto;
+    border-radius: 15px;
+    width: 113px;
+}
+
+.tap-coin1{
+    background-color: #424242;
+    width: max-content;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 10px;
+    width: 113px;
+}
+
+.tap-list{
+    display: flex;
+    margin-top: 10px;
+}
